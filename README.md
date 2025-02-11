@@ -17,4 +17,5 @@ Here are a few projects:
 - [Morden PONG](https://github.com/iurjscsi1101500/Modern_pong): PONG Game Written in C++
 - [PONG OS](https://github.com/iurjscsi1101500/pinned-project3): An x64 OS that only plays PONG
 
-Thanks for visiting my profile!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurjscsi1101500&show_icons=true&locale=en&layout=compact" alt="zigaowang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iurjscsi1101500&show_icons=true&locale=en" alt="zigaowang" /></p>
